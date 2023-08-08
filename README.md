@@ -10,4 +10,4 @@
 4. deque.h - упрощенный аналог std::deque;
 5. stackallocator.h - реализация stack-аллокатора и класса List с нестандартным аллокатором;
 6. unorderedmap.h - упрощенный аналог std::unordered_map;
-7. sharedptr.h - упрощенный аналог std::shared_ptr.
+7. sharedptr.h - содержит 2 класса: SharedPtr - упрощенный аналог std::shared_ptr и WeakPtr - упрощенный аналог std::weak_ptr.
